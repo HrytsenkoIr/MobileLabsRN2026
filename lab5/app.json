@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "lab5",
+    "slug": "lab5",
+    "scheme": "lab5",
+    "plugins": ["expo-router"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "androidStatusBar": {
+      "hidden": true
+    }
+  }
+}
