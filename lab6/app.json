@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "lab6",
+    "slug": "lab6",
+    "scheme": "lab6",
+    "plugins": ["expo-router"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "androidStatusBar": {
+      "hidden": true
+    }
+  }
+}
